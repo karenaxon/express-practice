@@ -1,0 +1,28 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenaxon/node-practice2.git"
+  },
+  "author": "Karen Axon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenaxon/node-practice2/issues"
+  },
+  "homepage": "https://github.com/karenaxon/node-practice2#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
